@@ -36,5 +36,5 @@
   - 그 외의 dependency는 package.json 파일을 참고해주세요.
 
 - ESLint를 사용하여 문법 검사를 합니다.
-  - .eslintrc는 ARC에서 자동 생성된 것을 사용합니다.
+  - .eslintrc는 ARC에서 자동 생성된 것을 사용합니다. (airbnb style javascript)
   - README를 보고 pre-commit hook을 복사해주세요. 문법 오류 발생시 커밋을 막을 수 있습니다.
